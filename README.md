@@ -54,3 +54,12 @@
 - 3.4.10 Exercise I	- [https://youtu.be/kAZuP3efPbg](https://youtu.be/kAZuP3efPbg)
 - 3.4.11 Exercise II	- [https://youtu.be/MkpFJkSrC2o](https://youtu.be/MkpFJkSrC2o)
 - 3.4.12 Exercise III and IV	- [https://youtu.be/Uw1_iZgihC0](https://youtu.be/Uw1_iZgihC0)
+
+
+
+
+#### OFFICE HOURS PLAYLIST
+[https://www.youtube.com/playlist?list=PLeDYvCW3J3jnrPbhl8wSLJY0j1NtUdWjp](https://www.youtube.com/playlist?list=PLeDYvCW3J3jnrPbhl8wSLJY0j1NtUdWjp)
+
+#### Google Drive link to videos & other resources
+[https://drive.google.com/drive/folders/1J0MRk5I2OmXCjsB6O4kjKm9sEOo95Zhd](https://drive.google.com/drive/folders/1J0MRk5I2OmXCjsB6O4kjKm9sEOo95Zhd)
