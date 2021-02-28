@@ -112,7 +112,20 @@
 - 6.2.11 NMF Exercise Part I	- [https://youtu.be/oo1sDDHE-DM](https://youtu.be/oo1sDDHE-DM)
 - 6.2.12 NMF Exercise Part II	- [https://youtu.be/PQt9XPS_bT0](https://youtu.be/PQt9XPS_bT0)
 - 6.2.13 Variants of PCA	- [https://youtu.be/0KdHFPXsonE](https://youtu.be/0KdHFPXsonE)
-
+- 7.1.1 Intro to Anomaly Detection	[https://youtu.be/KuFUQ7wWhsY](https://youtu.be/KuFUQ7wWhsY)
+- 7.1.2 One class SVM	- [https://youtu.be/2l0TD7gCzvQ](https://youtu.be/2l0TD7gCzvQ)
+- 7.1.3 Isolation Forest -	[https://youtu.be/xIAwOj_xh9s](https://youtu.be/xIAwOj_xh9s)
+- 7.1.4 Comparison Between One-class SVM and Isolation Forest	- [https://youtu.be/VIyK4gLB2hg](https://youtu.be/VIyK4gLB2hg)
+- 7.1.5 Intro to Case Study	- [https://youtu.be/TQk9uSFMo6w](https://youtu.be/TQk9uSFMo6w)
+- 7.1.6 Initial Baseline Model Part I	- [https://youtu.be/qrJTbKyv1eA](https://youtu.be/qrJTbKyv1eA)
+- 7.1.7 Initial Baseline model Part II	- [https://youtu.be/HMRoWtI6eMo](https://youtu.be/HMRoWtI6eMo)
+- 7.1.8 Full Baseline Model -	[https://youtu.be/gTyO2ldQfWc](https://youtu.be/gTyO2ldQfWc)
+- 7.1.9 Z-score Detection -	[https://youtu.be/d2YIby-isCE](https://youtu.be/d2YIby-isCE)
+- 7.1.10 Rolling Z-score Detection	- [https://youtu.be/cQ2YIZmeQKg](https://youtu.be/cQ2YIZmeQKg)
+- 7.1.11 Using External Features Initial Model	- [https://youtu.be/_SvveHx_Nfk](https://youtu.be/_SvveHx_Nfk)
+- 7.1.12 Using External Features Tuning the Model	- [https://youtu.be/2Z5SQsx4LFE](https://youtu.be/2Z5SQsx4LFE)
+- 7.1.13 Packaging the Time Series Anomaly Detector	- [https://youtu.be/hTWHZTTbmJk](https://youtu.be/hTWHZTTbmJk)
+- 
 
 
 
