@@ -125,7 +125,20 @@
 - 7.1.11 Using External Features Initial Model	- [https://youtu.be/_SvveHx_Nfk](https://youtu.be/_SvveHx_Nfk)
 - 7.1.12 Using External Features Tuning the Model	- [https://youtu.be/2Z5SQsx4LFE](https://youtu.be/2Z5SQsx4LFE)
 - 7.1.13 Packaging the Time Series Anomaly Detector	- [https://youtu.be/hTWHZTTbmJk](https://youtu.be/hTWHZTTbmJk)
-- 
+- 8.1.1 Model Considerations	- [https://youtu.be/SFFFnqugdOQ](https://youtu.be/SFFFnqugdOQ)
+- 8.1.2 Model Development	- [https://youtu.be/DrClE-USVDg](https://youtu.be/DrClE-USVDg)
+- 8.1.3 Flask App Local Development	- [https://youtu.be/chRA6Lngw-A](https://youtu.be/chRA6Lngw-A)
+- 8.1.4 GET requests	- [https://youtu.be/v1yYLbB_uUE](https://youtu.be/v1yYLbB_uUE)
+- 8.1.5 Making GET Requests with Model	- [https://youtu.be/q9DgF7mJbrc](https://youtu.be/q9DgF7mJbrc)
+- 8.1.6 Using our Model with Twitter Web API	- [https://youtu.be/AFwGAeBDeEk](https://youtu.be/AFwGAeBDeEk)
+- 8.1.7 POST Requests and Flask Templates	- [https://youtu.be/qbi3aT0KEsA](https://youtu.be/qbi3aT0KEsA)
+- 8.1.8 Preparing for Deployment to the Web -	[https://youtu.be/zqbIVwnA0go](https://youtu.be/zqbIVwnA0go)
+- 8.1.9 Deploying our App to the Web with Heroku	- [https://youtu.be/ALlhG0pjx1w](https://youtu.be/ALlhG0pjx1w)
+- 8.2.1 Rethinking Model Tuning	- [https://youtu.be/TPcytvHTQoA](https://youtu.be/TPcytvHTQoA)
+- 8.2.2 Intro to Bayes Theorem	- [https://youtu.be/bzsLD59kF2g](https://youtu.be/bzsLD59kF2g)
+- 8.2.3 Bayesian Inference -	[https://youtu.be/i6EyxNl_mdk](https://youtu.be/i6EyxNl_mdk)
+- 8.2.4 Bayesian Optimization	- [https://youtu.be/GIQL38tkyRs](https://youtu.be/GIQL38tkyRs)
+- 8.3.1 End of Course Material	- [https://youtu.be/htdGrsIMZkg](https://youtu.be/htdGrsIMZkg)
 
 
 
